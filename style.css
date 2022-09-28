@@ -52,10 +52,6 @@ header{
     align-content: center;
     padding: 0 5%;
     Background-color: white;
-    Width: 100%;
-    Height: 90px;
-    Z-index: 150;
-    Position: fixed;
 }
 #check{
     display: none;
@@ -292,13 +288,6 @@ section a{
         border-radius: 10px;
         letter-spacing: 2px;
         align-self: flex-start;
-    }
-    Header{
-        Background-color: white;
-        Width: 100%;
-        Height: 90px;
-        Z-index: 150;
-        Position: fixed;
     }
 }
 
