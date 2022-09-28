@@ -55,6 +55,7 @@ header{
     Width: 100%;
     Height: 90px;
     Z-index: 150;
+    Position: fixed;
 }
 #check{
     display: none;
@@ -297,6 +298,7 @@ section a{
         Width: 100%;
         Height: 90px;
         Z-index: 150;
+        Position: fixed;
     }
 }
 
